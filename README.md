@@ -31,7 +31,7 @@ I say core essentials as this is the bare minimum that I would take with me on a
 Optimally each item on this list should be the lightest available in your price range and total out at a comfortable
 weight of no more than 45 to 75 pounds. There is no need to rush out to REI or buy all Patagonia gear for most of the
 items on this list, as most can be found at Target, Costco (seasonally), or your local outfitter
-([Verle's Sports Center](https://www.verles.com/) if you happen to be Shelton Washington). Once you have done a few
+([Verle's Sports Center](https://www.verles.com/) if you happen to be in Shelton Washington). Once you have done a few
 hikes you'll notice what works for you and what doesn't and that's the time to start replacing different types of gear
 with the more pricey, but lighter, and in most cases more durable, proffesional fare. Until then though, just pick up
 that Ozark Trail Tent or Target store hiking bag and hit the (appropriate level) trail for you.
