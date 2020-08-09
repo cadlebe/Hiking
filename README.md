@@ -1,6 +1,6 @@
 # Northwest Hiking Prep
 
-v 0.0.3
+v 0.0.4
 
 ## Purpose
 
