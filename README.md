@@ -1,5 +1,7 @@
 # Northwest Hiking Prep
 
+v 0.0.1
+
 ## Purpose
 
 This set of checklists is meant as a starting point for new hikers that are ready to start taking on that overnight 5 to
