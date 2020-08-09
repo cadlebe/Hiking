@@ -1,4 +1,4 @@
-# Bret's Guide to Hiking and Camping Preperation
+# Northwest Hiking Prep
 
 ## Purpose
 
@@ -24,8 +24,8 @@ Now for the checklists!
 
 ## Core Essentials
 
-I say core essentials as this is the bare minimum that I would take with me on an overnight hike 2 to , in good weather
-(75/80 degree high and 50 to 60 degree low, no rain, light wind expected). Often refered to as the
+I say core essentials as this is the bare minimum that I would take with me on an overnight hike 2 to 3 nights, in good
+weather (75/80 degree high and 50 to 60 degree low, no rain, light wind expected). Often refered to as the
 "Ten Essentials Plus", it is an "easy" list of items for the minimum in survival in the outdoors.
 
 Optimally each item on this list should be the lightest available in your price range and total out at a comfortable
@@ -57,3 +57,5 @@ containers, etc. The point of car camping is to get out into the wilderness, tur
 throw out your back or risk getting lost in the back country. While I prefer hiking off up the trail and pitching a tent
 there, I also understand that my family would rather jump out of the car, set up camp, and roast some hotdogs. I enjoy
 that time with family, and the relaxation that comes with car camping.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Northwest Hiking Prep</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Bret Cadle</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
